@@ -1,0 +1,4 @@
+git rm -r --cached .
+git add .
+git commit -m "Move .gitignore to root and update repository"
+git push origin main
