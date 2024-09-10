@@ -12,7 +12,7 @@ import "./styles/main.css";
 const App = () => {
   const router = createBrowserRouter([
     {
-      path: "/react", 
+      path: "/project_react", 
       element: <RegistrationPage />, 
     },
     {
