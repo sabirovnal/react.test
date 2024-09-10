@@ -1,5 +1,7 @@
 import React from "react";
 
+
+
 const StepTwo = () => {
   return (
     <div className="container">
@@ -42,6 +44,8 @@ const StepTwo = () => {
             <button type="button" disabled id="next-btn">
               Далее
             </button>
+            
+            
           </div>
         </div>
       </div>
